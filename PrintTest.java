@@ -25,6 +25,7 @@ public class PrintTest{
 System.out.println(str);
 		int[] a=new int[]{222,31,2,43,3};
 			Arrays.sort(a);
+			Arrays.sort(a);
 		int index=Arrays.binarySearch(a,3);
 	System.out.println(index);
 	System.out.println(Arrays.toString(a));
